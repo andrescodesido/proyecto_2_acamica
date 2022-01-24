@@ -3,7 +3,7 @@ Proyecto n°2 Certificacion Data Science "Acamica"
 
 Proyecto: Análisis de mercado inmobiliario.
 
-              En este proyecto se trabajar con un dataset de propiedades en venta publicado en el portal Properati.
+          En este proyecto se trabajar con un dataset de propiedades en venta publicado en el portal Properati.
 
 
 	Objetivo simulado, valuar las propiedades.
